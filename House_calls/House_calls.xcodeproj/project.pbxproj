@@ -14,6 +14,25 @@
 		2EBE7D491A65997F00D76DDA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EBE7D481A65997F00D76DDA /* Images.xcassets */; };
 		2EBE7D4C1A65997F00D76DDA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2EBE7D4A1A65997F00D76DDA /* LaunchScreen.xib */; };
 		2EBE7D581A65998000D76DDA /* House_callsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EBE7D571A65998000D76DDA /* House_callsTests.m */; };
+		EAC5CC7A1A678504008F7EC8 /* TutorialPageContentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAC5CC791A678504008F7EC8 /* TutorialPageContentViewController.m */; };
+		EAC5CC7E1A678B78008F7EC8 /* page1.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC7B1A678B78008F7EC8 /* page1.png */; };
+		EAC5CC7F1A678B78008F7EC8 /* page2.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC7C1A678B78008F7EC8 /* page2.png */; };
+		EAC5CC801A678B78008F7EC8 /* page3.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC7D1A678B78008F7EC8 /* page3.png */; };
+		EAC5CC821A678B86008F7EC8 /* page4.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC811A678B86008F7EC8 /* page4.png */; };
+		EAC5CC861A67957B008F7EC8 /* call_button.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC831A67957A008F7EC8 /* call_button.png */; };
+		EAC5CC871A67957B008F7EC8 /* form_button.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC841A67957A008F7EC8 /* form_button.png */; };
+		EAC5CC881A67957B008F7EC8 /* sam.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC851A67957A008F7EC8 /* sam.png */; };
+		EAC5CC8B1A6795E0008F7EC8 /* available.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC891A6795E0008F7EC8 /* available.jpg */; };
+		EAC5CC8C1A6795E0008F7EC8 /* red_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC8A1A6795E0008F7EC8 /* red_bar.png */; };
+		EAC5CC8E1A679668008F7EC8 /* info.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC8D1A679668008F7EC8 /* info.png */; };
+		EAC5CC901A679740008F7EC8 /* doctor2.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC8F1A679740008F7EC8 /* doctor2.png */; };
+		EAC5CC921A679B42008F7EC8 /* sample bio.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC911A679B41008F7EC8 /* sample bio.png */; };
+		EAC5CC941A67A0A8008F7EC8 /* PreRlogo1.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC931A67A0A8008F7EC8 /* PreRlogo1.png */; };
+		EAC5CC971A67A228008F7EC8 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAC5CC961A67A228008F7EC8 /* LoginViewController.m */; };
+		EAC5CC9A1A67A73F008F7EC8 /* DoctorListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAC5CC991A67A73F008F7EC8 /* DoctorListViewController.m */; };
+		EAC5CC9D1A67B04F008F7EC8 /* PreEvalFormViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAC5CC9C1A67B04F008F7EC8 /* PreEvalFormViewController.m */; };
+		EAC5CC9F1A67B4BB008F7EC8 /* greybar.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CC9E1A67B4BB008F7EC8 /* greybar.jpeg */; };
+		EAC5CCA11A67B57D008F7EC8 /* BlackBar.png in Resources */ = {isa = PBXBuildFile; fileRef = EAC5CCA01A67B57D008F7EC8 /* BlackBar.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +59,29 @@
 		2EBE7D511A65998000D76DDA /* House_callsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = House_callsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EBE7D561A65998000D76DDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2EBE7D571A65998000D76DDA /* House_callsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = House_callsTests.m; sourceTree = "<group>"; };
+		EAC5CC781A678504008F7EC8 /* TutorialPageContentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TutorialPageContentViewController.h; sourceTree = "<group>"; };
+		EAC5CC791A678504008F7EC8 /* TutorialPageContentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TutorialPageContentViewController.m; sourceTree = "<group>"; };
+		EAC5CC7B1A678B78008F7EC8 /* page1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page1.png; sourceTree = "<group>"; };
+		EAC5CC7C1A678B78008F7EC8 /* page2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page2.png; sourceTree = "<group>"; };
+		EAC5CC7D1A678B78008F7EC8 /* page3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page3.png; sourceTree = "<group>"; };
+		EAC5CC811A678B86008F7EC8 /* page4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page4.png; sourceTree = "<group>"; };
+		EAC5CC831A67957A008F7EC8 /* call_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = call_button.png; sourceTree = "<group>"; };
+		EAC5CC841A67957A008F7EC8 /* form_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = form_button.png; sourceTree = "<group>"; };
+		EAC5CC851A67957A008F7EC8 /* sam.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sam.png; sourceTree = "<group>"; };
+		EAC5CC891A6795E0008F7EC8 /* available.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = available.jpg; sourceTree = "<group>"; };
+		EAC5CC8A1A6795E0008F7EC8 /* red_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_bar.png; sourceTree = "<group>"; };
+		EAC5CC8D1A679668008F7EC8 /* info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = info.png; sourceTree = "<group>"; };
+		EAC5CC8F1A679740008F7EC8 /* doctor2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = doctor2.png; sourceTree = "<group>"; };
+		EAC5CC911A679B41008F7EC8 /* sample bio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sample bio.png"; sourceTree = "<group>"; };
+		EAC5CC931A67A0A8008F7EC8 /* PreRlogo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PreRlogo1.png; sourceTree = "<group>"; };
+		EAC5CC951A67A228008F7EC8 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		EAC5CC961A67A228008F7EC8 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		EAC5CC981A67A73F008F7EC8 /* DoctorListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DoctorListViewController.h; sourceTree = "<group>"; };
+		EAC5CC991A67A73F008F7EC8 /* DoctorListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DoctorListViewController.m; sourceTree = "<group>"; };
+		EAC5CC9B1A67B04F008F7EC8 /* PreEvalFormViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PreEvalFormViewController.h; sourceTree = "<group>"; };
+		EAC5CC9C1A67B04F008F7EC8 /* PreEvalFormViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreEvalFormViewController.m; sourceTree = "<group>"; };
+		EAC5CC9E1A67B4BB008F7EC8 /* greybar.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = greybar.jpeg; sourceTree = "<group>"; };
+		EAC5CCA01A67B57D008F7EC8 /* BlackBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BlackBar.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,11 +123,19 @@
 		2EBE7D3A1A65997F00D76DDA /* House_calls */ = {
 			isa = PBXGroup;
 			children = (
+				EAC5CC781A678504008F7EC8 /* TutorialPageContentViewController.h */,
+				EAC5CC791A678504008F7EC8 /* TutorialPageContentViewController.m */,
 				2EBE7D3F1A65997F00D76DDA /* AppDelegate.h */,
 				2EBE7D401A65997F00D76DDA /* AppDelegate.m */,
 				2EBE7D421A65997F00D76DDA /* ViewController.h */,
 				2EBE7D431A65997F00D76DDA /* ViewController.m */,
 				2EBE7D451A65997F00D76DDA /* Main.storyboard */,
+				EAC5CC9B1A67B04F008F7EC8 /* PreEvalFormViewController.h */,
+				EAC5CC9C1A67B04F008F7EC8 /* PreEvalFormViewController.m */,
+				EAC5CC981A67A73F008F7EC8 /* DoctorListViewController.h */,
+				EAC5CC991A67A73F008F7EC8 /* DoctorListViewController.m */,
+				EAC5CC951A67A228008F7EC8 /* LoginViewController.h */,
+				EAC5CC961A67A228008F7EC8 /* LoginViewController.m */,
 				2EBE7D481A65997F00D76DDA /* Images.xcassets */,
 				2EBE7D4A1A65997F00D76DDA /* LaunchScreen.xib */,
 				2EBE7D3B1A65997F00D76DDA /* Supporting Files */,
@@ -96,6 +146,21 @@
 		2EBE7D3B1A65997F00D76DDA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				EAC5CCA01A67B57D008F7EC8 /* BlackBar.png */,
+				EAC5CC9E1A67B4BB008F7EC8 /* greybar.jpeg */,
+				EAC5CC931A67A0A8008F7EC8 /* PreRlogo1.png */,
+				EAC5CC911A679B41008F7EC8 /* sample bio.png */,
+				EAC5CC8F1A679740008F7EC8 /* doctor2.png */,
+				EAC5CC8D1A679668008F7EC8 /* info.png */,
+				EAC5CC891A6795E0008F7EC8 /* available.jpg */,
+				EAC5CC8A1A6795E0008F7EC8 /* red_bar.png */,
+				EAC5CC831A67957A008F7EC8 /* call_button.png */,
+				EAC5CC841A67957A008F7EC8 /* form_button.png */,
+				EAC5CC851A67957A008F7EC8 /* sam.png */,
+				EAC5CC811A678B86008F7EC8 /* page4.png */,
+				EAC5CC7B1A678B78008F7EC8 /* page1.png */,
+				EAC5CC7C1A678B78008F7EC8 /* page2.png */,
+				EAC5CC7D1A678B78008F7EC8 /* page3.png */,
 				2EBE7D3C1A65997F00D76DDA /* Info.plist */,
 				2EBE7D3D1A65997F00D76DDA /* main.m */,
 			);
@@ -168,6 +233,7 @@
 				TargetAttributes = {
 					2EBE7D371A65997F00D76DDA = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = PY9957M84G;
 					};
 					2EBE7D501A65998000D76DDA = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -199,9 +265,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAC5CC871A67957B008F7EC8 /* form_button.png in Resources */,
 				2EBE7D471A65997F00D76DDA /* Main.storyboard in Resources */,
+				EAC5CC861A67957B008F7EC8 /* call_button.png in Resources */,
+				EAC5CCA11A67B57D008F7EC8 /* BlackBar.png in Resources */,
+				EAC5CC8B1A6795E0008F7EC8 /* available.jpg in Resources */,
+				EAC5CC881A67957B008F7EC8 /* sam.png in Resources */,
 				2EBE7D4C1A65997F00D76DDA /* LaunchScreen.xib in Resources */,
+				EAC5CC921A679B42008F7EC8 /* sample bio.png in Resources */,
+				EAC5CC801A678B78008F7EC8 /* page3.png in Resources */,
+				EAC5CC821A678B86008F7EC8 /* page4.png in Resources */,
+				EAC5CC7E1A678B78008F7EC8 /* page1.png in Resources */,
+				EAC5CC9F1A67B4BB008F7EC8 /* greybar.jpeg in Resources */,
+				EAC5CC901A679740008F7EC8 /* doctor2.png in Resources */,
+				EAC5CC941A67A0A8008F7EC8 /* PreRlogo1.png in Resources */,
+				EAC5CC8C1A6795E0008F7EC8 /* red_bar.png in Resources */,
 				2EBE7D491A65997F00D76DDA /* Images.xcassets in Resources */,
+				EAC5CC8E1A679668008F7EC8 /* info.png in Resources */,
+				EAC5CC7F1A678B78008F7EC8 /* page2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -220,8 +301,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EBE7D441A65997F00D76DDA /* ViewController.m in Sources */,
+				EAC5CC7A1A678504008F7EC8 /* TutorialPageContentViewController.m in Sources */,
+				EAC5CC9D1A67B04F008F7EC8 /* PreEvalFormViewController.m in Sources */,
 				2EBE7D411A65997F00D76DDA /* AppDelegate.m in Sources */,
+				EAC5CC9A1A67A73F008F7EC8 /* DoctorListViewController.m in Sources */,
 				2EBE7D3E1A65997F00D76DDA /* main.m in Sources */,
+				EAC5CC971A67A228008F7EC8 /* LoginViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -345,9 +430,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = House_calls/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -355,9 +443,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = House_calls/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -414,6 +505,7 @@
 				2EBE7D5D1A65998000D76DDA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2EBE7D5E1A65998000D76DDA /* Build configuration list for PBXNativeTarget "House_callsTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +514,7 @@
 				2EBE7D601A65998000D76DDA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
